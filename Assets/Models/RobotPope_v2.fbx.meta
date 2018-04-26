@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: e04b5c11fd2c2d34395b9e3cd48c29e9
+timeCreated: 1461171457
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group
+    100002: L_F_Finger1
+    100004: L_F_Finger2
+    100006: L_F_Finger3
+    100008: L_F_Finger4
+    100010: L_F_Finger5
+    100012: L_Hand
+    100014: pasted__pPlane1
+    100016: pCylinder15
+    100018: polySurface1
+    100020: polySurface10
+    100022: polySurface11
+    100024: polySurface12
+    100026: polySurface14
+    100028: polySurface15
+    100030: polySurface16
+    100032: polySurface17
+    100034: polySurface18
+    100036: polySurface19
+    100038: polySurface20
+    100040: polySurface4
+    100042: polySurface5
+    100044: polySurface6
+    100046: polySurface7
+    100048: polySurface8
+    100050: polySurface9
+    100052: pPlane2
+    100054: rig:Bottom_WHeel
+    100056: rig:Eyes
+    100058: rig:Hat
+    100060: rig:Head
+    100062: rig:L_Arm
+    100064: rig:L_F_Finger1
+    100066: rig:L_F_Finger2
+    100068: rig:L_F_Finger3
+    100070: rig:L_F_Finger4
+    100072: rig:L_F_Finger5
+    100074: rig:L_Hand
+    100076: rig:L_Shoulder
+    100078: rig:Neck
+    100080: rig:R_Arm
+    100082: rig:R_Hand
+    100084: rig:R_Shoulder
+    100086: rig:Root
+    100088: rig:Wheel
+    100090: //RootNode
+    400000: group
+    400002: L_F_Finger1
+    400004: L_F_Finger2
+    400006: L_F_Finger3
+    400008: L_F_Finger4
+    400010: L_F_Finger5
+    400012: L_Hand
+    400014: pasted__pPlane1
+    400016: pCylinder15
+    400018: polySurface1
+    400020: polySurface10
+    400022: polySurface11
+    400024: polySurface12
+    400026: polySurface14
+    400028: polySurface15
+    400030: polySurface16
+    400032: polySurface17
+    400034: polySurface18
+    400036: polySurface19
+    400038: polySurface20
+    400040: polySurface4
+    400042: polySurface5
+    400044: polySurface6
+    400046: polySurface7
+    400048: polySurface8
+    400050: polySurface9
+    400052: pPlane2
+    400054: rig:Bottom_WHeel
+    400056: rig:Eyes
+    400058: rig:Hat
+    400060: rig:Head
+    400062: rig:L_Arm
+    400064: rig:L_F_Finger1
+    400066: rig:L_F_Finger2
+    400068: rig:L_F_Finger3
+    400070: rig:L_F_Finger4
+    400072: rig:L_F_Finger5
+    400074: rig:L_Hand
+    400076: rig:L_Shoulder
+    400078: rig:Neck
+    400080: rig:R_Arm
+    400082: rig:R_Hand
+    400084: rig:R_Shoulder
+    400086: rig:Root
+    400088: rig:Wheel
+    400090: //RootNode
+    2300000: pasted__pPlane1
+    2300002: polySurface1
+    2300004: polySurface10
+    2300006: polySurface11
+    2300008: polySurface14
+    2300010: polySurface15
+    2300012: polySurface16
+    2300014: polySurface17
+    2300016: polySurface18
+    2300018: polySurface19
+    2300020: polySurface20
+    2300022: polySurface4
+    2300024: polySurface5
+    2300026: polySurface6
+    2300028: polySurface7
+    2300030: polySurface8
+    2300032: polySurface9
+    2300034: pPlane2
+    3300000: pasted__pPlane1
+    3300002: polySurface1
+    3300004: polySurface10
+    3300006: polySurface11
+    3300008: polySurface14
+    3300010: polySurface15
+    3300012: polySurface16
+    3300014: polySurface17
+    3300016: polySurface18
+    3300018: polySurface19
+    3300020: polySurface20
+    3300022: polySurface4
+    3300024: polySurface5
+    3300026: polySurface6
+    3300028: polySurface7
+    3300030: polySurface8
+    3300032: polySurface9
+    3300034: pPlane2
+    4300000: pPlane2
+    4300002: pasted__pPlane1
+    4300004: polySurface1
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: polySurface14
+    4300024: polySurface15
+    4300026: polySurface16
+    4300028: polySurface17
+    4300030: polySurface18
+    4300032: polySurface19
+    4300034: polySurface20
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
